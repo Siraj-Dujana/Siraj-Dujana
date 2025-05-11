@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Siraj+Ahmed%20-%20Full+Stack+Developer)
 
 ---
 
