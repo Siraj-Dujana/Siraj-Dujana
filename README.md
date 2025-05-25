@@ -51,7 +51,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ### 📬 **Let's Connect!**:
 
-* [LinkedIn](https://www.linkedin.com/in/siraj-ahmed) | [GitHub](https://github.com/sirajahmed) | 📧 Email: \[[your.email@example.com](mailto:your.email@example.com)]
+* [LinkedIn](https://www.linkedin.com/in/siraj-ahmed) | [GitHub](https://github.com/Siraj-Dujana) | 📧 Email: \[[dujanadujana16@gmail.com](mailto:dujanadujana16@gmail.com)]
 
 ---
 
@@ -75,12 +75,6 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ---
 
-### 🔗 **Latest Blog Posts** *(Optional)*:
-
-* [Link to your Blog](#) | [Link to Articles](#)
-
----
-
 ### 🎉 **Thank You for Visiting!**
 
 Let's build something amazing together. 🚀
@@ -95,5 +89,3 @@ Let's build something amazing together. 🚀
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-there is no issue
-why is is not appearing on my github profile?
